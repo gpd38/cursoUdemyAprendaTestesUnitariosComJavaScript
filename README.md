@@ -6,4 +6,11 @@ Esse curso tem como objetivo principal o ensino de testes unitários em Javascri
    - Controle de versão de código fonte com Git/GitHub
    - Desenvolvimento guiado por comportamentos (BDD - Behaviour Driven Development)
 
-### .
+### Softwares 
+   - Sublime Text 3
+   - Firefox
+   - NodeJS/NPM
+   - Git
+   - Travis
+
+### 
