@@ -13,4 +13,7 @@ Esse curso tem como objetivo principal o ensino de testes unitários em Javascri
    - Git
    - Travis
 
-### 
+### Jasmine
+Jasmine é um framework utilizado para a criação/execução de testes em JavaScript.
+
+
